@@ -1,0 +1,17 @@
+/* Centrando la imagen */ 
+.image-container {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 28vh; /* Ajusta la altura según tus necesidades */ 
+   }
+    /* Dando forma ovalada a la imagen */ .oval-image {
+        width: 200px; /* Ajusta el tamaño según tus necesidades */ 
+        height: 200px; /* Ajusta el tamaño según tus necesidades */ 
+        object-fit: cover; 
+        border-radius: 50%; 
+        /* Este valor hace que la imagen sea completamente redonda */ 
+   }
+#B-menu {
+    text-align:center;
+}
