@@ -16,6 +16,20 @@
     text-align:center;
 }
 
+#Foto-p2 {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 28vh; /* Ajusta la altura según tus necesidades */ 
+
+}
+
+#Foto-principal2 {
+    width: 200px; /* Ajusta el tamaño según tus necesidades */ 
+    height: 200px; /* Ajusta el tamaño según tus necesidades */ 
+    object-fit: cover; 
+    border-radius: 50%; 
+}
 /* Estilos básicos para todos los botones */ 
 .btn { 
     display: inline-block; 
