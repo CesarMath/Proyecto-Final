@@ -13,4 +13,4 @@ los siguientes medios:
 - Whatssap: 55-55-55-55-55
 - Correo: correo@gmail.com
 
-Derechos reservados
+César 'Diablo de los números' Alejándrez &copy; 2024 
