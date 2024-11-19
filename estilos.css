@@ -43,3 +43,10 @@
     cursor: pointer; 
     margin: 5px;
 } 
+
+.btn:hover {
+    color: skyblue;
+    transition: all 0.3s ease;
+    background-color: black; transform: scale(1.1);
+    
+}
