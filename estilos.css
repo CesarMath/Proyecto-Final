@@ -50,3 +50,16 @@
     background-color: black; transform: scale(1.1);
     
 }
+
+.container { 
+    display: grid; 
+    grid-template-columns: 1fr 3fr; /* Divide en dos columnas iguales */ 
+    gap: 33px; /* Espacio entre las columnas */ 
+    align-items: center; /* Alinea verticalmente en el centro */ 
+    height: 50vh; /* Altura completa de la ventana */ 
+    padding: 20px; 
+} 
+    
+.photo img { 
+    width: 100%; /* Asegura que la imagen ocupe todo el ancho disponible */ 
+    border-radius: 10px; /* Bordes redondeados opcionales */
