@@ -63,3 +63,4 @@
 .photo img { 
     width: 100%; /* Asegura que la imagen ocupe todo el ancho disponible */ 
     border-radius: 10px; /* Bordes redondeados opcionales */
+}
