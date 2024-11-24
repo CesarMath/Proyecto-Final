@@ -1,5 +1,5 @@
 header{
-    background-color: blanchedalmond;
+    background-color: skyblue;
 }
 
 /* Centrando la imagen */ 
@@ -62,4 +62,16 @@ nav h1 {
 .photo img { 
     width: 100%; /* Asegura que la imagen ocupe todo el ancho disponible */ 
     border-radius: 10px; /* Bordes redondeados opcionales */
+}
+
+.colorfondo {
+    background-color: skyblue;
+}
+
+h2{
+    background-color:cornflowerblue;
+}
+
+.colortitulos {
+    background-color: cornflowerblue;
 }
