@@ -26,6 +26,14 @@ header{
     border-radius: 50%; /* Este valor hace que la imagen sea completamente redonda */ 
 }
 
+main h1,h2{
+    background-color:cornflowerblue;
+    padding-left: 8px;
+    border-radius: 10px;
+    border: 1px solid black;
+
+}
+
 nav p {
     margin-top: -1%;
 }
@@ -89,14 +97,8 @@ nav h1 {
     margin: 10px;    
 }
 
-h2{
-    background-color:cornflowerblue;
-    padding-left: 8px;
-    border-radius: 10px;
-    border: 1px solid black;
-
-}
 
 .colortitulos {
     background-color: cornflowerblue;
 }
+
