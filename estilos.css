@@ -12,7 +12,7 @@ body{
     padding: 10px;
     border-radius: 15px;
     border: 3px solid black;
-    margin-top: 15px;
+    margin: 15px 200px 15px 200px;
     
 }
 
@@ -32,6 +32,7 @@ body{
     object-fit: cover; 
     border-radius: 50%; /* Este valor hace que la imagen sea completamente redonda */ 
 }
+
 
 main h1,h2{
     width: auto;
@@ -89,6 +90,8 @@ nav h1 {
     align-items: center; /* Alinea verticalmente en el centro */ 
     height: 50vh; /* Altura completa de la ventana */ 
     padding: 20px; 
+
+    margin-left: 50px;
 } 
     
 .photo img { 
@@ -99,11 +102,14 @@ nav h1 {
 
 .colorfondo {
     background-color: skyblue;
-    width: auto;
+    width: 900px;
     padding: 0px 3px 6px 6px;
     border: 2px solid black ;
     border-radius: 10px;
-    margin: 10px;
+}
+
+.margencentrado {
+    margin: 15px 300px 15px 300px
 }
 
 
